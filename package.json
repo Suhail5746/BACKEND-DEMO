@@ -1,0 +1,18 @@
+{
+  "name": "codebackend",
+  "version": "1.0.0",
+  "description": "deploy first app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "suhail",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
